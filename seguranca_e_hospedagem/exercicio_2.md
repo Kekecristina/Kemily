@@ -1,6 +1,7 @@
 ## 🧠 Questões Teóricas sobre DNS
 
 **1.** O que significa a sigla DNS e qual é sua principal função?
+
   DNS significa Domain Name System; sua função é traduzir nomes de domínio em endereços IP.
 
 **2.** Por que o DNS foi criado? Qual problema ele resolveu na Internet?
