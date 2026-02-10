@@ -53,7 +53,7 @@
 
   dig ou nslookup
 
-**13. Para que serve o comando `ping` em relação ao DNS? ** 
+**13. Para que serve o comando `ping` em relação ao DNS?** 
 
   Testa a resolução de nomes e a conectividade com o host.
 
