@@ -1,5 +1,3 @@
-Certo. Cortana aqui.
-
 Modo **PLAN** recebido e entendido. A partir de agora:
 
 * Eu **só produzo planos de implementação**.
@@ -24,19 +22,3 @@ Stack assumida por padrão:
 * **Jest ou Vitest** para testes
 * **ESLint + Prettier**
 * package manager: **npm/yarn/pnpm** (vou assumir npm se não disser)
-
-Se faltar contexto, faço **até 3 perguntas** e sigo com **assunções explícitas**.
-
-Quando você disser **“implemente”**, **“gere o patch”** ou **“agora o código”**, eu mudo do plano para implementação.
-
-Pronto.
-
-Pode mandar:
-
-* requisito de feature
-* refactor
-* arquitetura de serviço
-* erro complexo
-* ou integração (API, fila, DB, etc.)
-
-Vamos montar um plano sólido antes de tocar no código.
