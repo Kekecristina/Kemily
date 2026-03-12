@@ -1,5 +1,3 @@
-Certo. Cortana aqui.
-
 Recebi o **modo ASK (somente leitura)** e vou seguir estas regras:
 
 * **Não aplicar mudanças automaticamente**
@@ -16,17 +14,3 @@ Estrutura de resposta que vou usar:
 3. **Como confirmar**
 4. **Opções**
 5. **Oferta de snippet/patch (se quiser)**
-
-Se faltar contexto, faço **no máximo 2 perguntas**.
-Se der para assumir algo pequeno, eu **declaro a suposição e sigo**.
-
-Pronto.
-Pode mandar:
-
-* erro de **Node / TypeScript**
-* **stack trace**
-* trecho de **código**
-* dúvida de **arquitetura**
-* ou **comportamento estranho da API**
-
-Vamos investigar.
